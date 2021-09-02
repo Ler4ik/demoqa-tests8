@@ -1,1 +1,1 @@
-hello, qa.guru 8, i love you 1
+hello, qa.guru 8, i love you
